@@ -1,6 +1,6 @@
 # gmail-love-mcp
 
-Servidor MCP local em Node.js/TypeScript para criar rascunhos românticos para o meu amor no Gmail e enviar somente depois de confirmação explícita do usuário.
+Servidor MCP local em Node.js/TypeScript para criar rascunhos no Gmail e enviar somente depois de confirmação explícita do usuário.
 
 ## Garantias de segurança
 
